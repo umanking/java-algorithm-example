@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 /**
  * h index
  */
-public class HIndexTest {
+public class HIndex {
     public static void main(String[] args) {
         System.out.println(solution2(new int[]{3, 0, 6, 1, 5}));
         System.out.println(solution2(new int[]{1, 4, 7, 9, 10}));

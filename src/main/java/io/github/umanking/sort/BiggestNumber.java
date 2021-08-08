@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 /**
  * 가장큰수
  */
-public class BiggestNumberTest {
+public class BiggestNumber {
     public static void main(String[] args) {
         System.out.println(solution2(new int[]{6, 10, 2}));
         System.out.println(solution2(new int[]{3, 30, 34, 5, 9}));

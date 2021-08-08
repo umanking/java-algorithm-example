@@ -3,7 +3,7 @@ package io.github.umanking.stack;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class StackTest {
+public class FeatureDevelop {
 
     public static void main(String[] args) {
         System.out.println(Arrays.toString(
