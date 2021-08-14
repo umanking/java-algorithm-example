@@ -13,6 +13,8 @@ public class HIndex {
         System.out.println(solution2(new int[]{3, 0, 6, 1, 5}));
         System.out.println(solution2(new int[]{1, 4, 7, 9, 10}));
         System.out.println(solution2(new int[]{4}));
+        
+        
     }
 
     public static int solution(int[] citations) {
